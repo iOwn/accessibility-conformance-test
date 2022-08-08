@@ -5,5 +5,8 @@
 Prerecorded Audio-only<br />An alternative for time-based media is provided that presents equivalent information for prerecorded audio-only content.<br />Prerecorded Video-only<br />Either an alternative for time-based media or an audio track is provided that presents equivalent information for prerecorded video-only content. | A | 1 | 2 | 3 |
 | <!--ID--> | <!--WCAG reference--> | <!--Title--> | <!--Description--> | <!--Level--> | <!--AVT-1 reference--> | <!--AVT-2 reference--> | <!--AVT-3 reference--> |
 
-| ID 	| WCAG reference 	| Title 	| Description 	| Level 	| AVT-1 reference 	| AVT-2 reference 	| AVT-3 reference 	|
-| --- | --- | --- | ------------- | ----------------- | ----------------- | ----------------- |
+| ID | WCAG reference | Title | Description | AVT-1 reference | AVT-2 reference | AVT-3 reference |
+|---|---|---|---|---|---|---|
+|  |  |  | 123 |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
