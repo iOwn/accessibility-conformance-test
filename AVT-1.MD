@@ -1,5 +1,5 @@
 | ID | axe-core ID / Title | Description | Impact | WCAG references |
-|---|---|-----|---|---|
+|----|---|-----|---|---|
 | AVT-1-1 | area-alt | Ensures `<area>` elements of image maps have alternate text | Critical | wcag-2-4-4, wcag-4-1-2 |
 | AVT-1-2 | aria-allowed-attr | Ensures ARIA attributes are allowed for an element's role | Serious, Critical | wcag-4-1-2 |
 | AVT-1-3 | aria-command-name | Ensures every ARIA button, link and menuitem has an accessible name | Serious | wcag-4-1-2 |
@@ -55,5 +55,10 @@
 | AVT-1-53 | th-has-data-cells | Ensure that `<th>` elements and elements with `role=columnheader/rowheader` have data cells they describe	 | Serious | wcag-1-3-1 |
 | AVT-1-54 | valid-lang | Ensures lang attributes have valid values | Serious | wcag-3-1-2 |
 | AVT-1-55 | video-caption | Ensures `<video>` elements have captions	 | Critical | wcag-1-2-2 |
+| AVT-1-56 | autocomplete-valid | Ensure the autocomplete attribute is correct and suitable for the form field	 | Serious | wcag-1-3-5 |
+| AVT-1-56 | avoid-inline-spacing | Ensure that text spacing set through style attributes can be adjusted with custom stylesheets | Serious | wcag-1-4-12 |
+| AVT-1-56 | color-contrast-enhanced | Ensures the contrast between foreground and background colors meets WCAG 2 AAA contrast ratio thresholds | Serious | wcag-1-4-6 |
+| AVT-1-57 | identical-links-same-purpose | Ensure that links with the same accessible name serve a similar purpose	 | Minor | wcag-2-4-9 |
+| AVT-1-58 | meta-refresh-no-exceptions | Ensures `<meta http-equiv="refresh">` is not used for delayed refresh	 | Minor | wcag-2-2-4, wcag-3-2-5 |
 
 | <!--ID--> | <!--axe-core ID / Title--> | <!--Description--> | <!--Impact--> | <!--WCAG references--> |
