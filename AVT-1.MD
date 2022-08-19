@@ -27,7 +27,7 @@
 | <a id="AVT-1-25">AVT-1-25</a> | document-title | Ensures each HTML document contains a non-empty `<title>` element	 | Serious | [wcag-2-4-2](./REFERENCE.MD#wcag-2-4-2) |
 | <a id="AVT-1-26">AVT-1-26</a> | duplicate-id-active | Ensures every id attribute value of active elements is unique | Serious | [wcag-4-1-1](./REFERENCE.MD#wcag-4-1-1) |
 | <a id="AVT-1-27">AVT-1-27</a> | duplicate-id-aria | Ensures every id attribute value used in ARIA and in labels is unique	 | Critical | [wcag-4-1-1](./REFERENCE.MD#wcag-4-1-1) |
-| <a id="AVT-1-28">AVT-1-28</a> | duplicate-id | Ensures every id attribute value is unique	 | Minor | wcag-4-1-1 |
+| <a id="AVT-1-28">AVT-1-28</a> | duplicate-id | Ensures every id attribute value is unique	 | Minor | [wcag-4-1-1](./REFERENCE.MD#wcag-4-1-1) |
 | <a id="AVT-1-29">AVT-1-29</a> | form-field-multiple-labels | Ensures form field does not have multiple label elements | Moderate | [wcag-3-3-2](./REFERENCE.MD#wcag-3-3-2) |
 | <a id="AVT-1-30">AVT-1-30</a> | frame-focusable-content | Ensures `<frame>` and `<iframe>` elements with focusable content do not have tabindex=-1	 | Serious | [wcag-2-1-1](./REFERENCE.MD#wcag-2-1-1) |
 | <a id="AVT-1-31">AVT-1-31</a> | frame-title | Ensures `<iframe>` and `<frame>` elements have an accessible name	 | Serious | [wcag-4-1-2](./REFERENCE.MD#wcag-4-1-2) |
