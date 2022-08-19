@@ -1,6 +1,6 @@
 | ID | Description | WCAG references | Conformance level |
 |----|-----|---|---|
-| AVT-2-1 | Check if the provided text alternative for non-text content is equivalent. | wcag-1-1-1 |  :white_check_mark: `Required` |
+| AVT-2-1 | Check if the provided text alternative for non-text content is equivalent. | [wcag-1-1-1](./REFERENCE.MD#test) |  :white_check_mark: `Required` |
 | AVT-2-2 | An alternative for time-based media or audio description of the prerecorded video content is provided for synchronized media, except when the media is a media alternative for text and is clearly labeled as such.	 | wcag-1-2-3 | :white_check_mark: `Required` |
 | AVT-2-3 | Captions are provided for all live audio content in synchronized media. | wcag-1-2-4 |  :white_check_mark: `Required` |
 | AVT-2-4 | Audio description is provided for all prerecorded video content in synchronized media. | wcag-1-2-5 |  :white_check_mark: `Required` |
